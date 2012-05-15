@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Tag List widget
-	Plugin URI:
+	Plugin URI: https://github.com/svivian/q2a-tag-list-widget
 	Plugin Description: Lists top tags in sidebar
 	Plugin Version: 1.0
 	Plugin Date: 2011-08-16

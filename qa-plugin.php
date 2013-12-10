@@ -3,12 +3,13 @@
 	Plugin Name: Tag List widget
 	Plugin URI: https://github.com/svivian/q2a-tag-list-widget
 	Plugin Description: Lists top tags in sidebar
-	Plugin Version: 1.0
+	Plugin Version: 1.1
 	Plugin Date: 2011-08-16
 	Plugin Author: Scott Vivian
 	Plugin Author URI: http://codelair.co.uk/
 	Plugin License: GPLv3
 	Plugin Minimum Question2Answer Version: 1.4
+	Plugin Update Check URI: https://raw.github.com/svivian/q2a-tag-list-widget/master/qa-plugin.php
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

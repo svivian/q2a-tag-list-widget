@@ -1,6 +1,6 @@
 <?php
 /*
-	Question2Answer Tag List widget plugin, v1.0
+	Question2Answer Tag List widget plugin
 	License: http://www.gnu.org/licenses/gpl.html
 */
 

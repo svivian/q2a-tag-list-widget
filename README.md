@@ -22,12 +22,11 @@ Installation & Usage
 CSS
 -------------------------------------------------
 
-/* Tag List plugin */
-
-.qa-sidepanel .qa-q-item-tag-item {
-	display: block;
-	margin: 3px 0 3px 20px;
-}
+	/* Tag List plugin */
+	.qa-sidepanel .qa-q-item-tag-item {
+		display: block;
+		margin: 3px 0 3px 20px;
+	}
 
 
 

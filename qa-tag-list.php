@@ -75,7 +75,7 @@ class qa_tag_list
 
 	function output_widget($region, $place, $themeobject, $template, $request, $qa_content)
 	{
-		require_once QA_INCLUDE_DIR.'qa-db-selects.php';
+		require_once QA_INCLUDE_DIR.'db/selects.php';
 		$populartags = qa_db_single_select( qa_db_popular_tags_selectspec(0, qa_opt('tag_list_count_tags')) );
 
 		$themeobject->output(
